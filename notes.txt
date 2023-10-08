@@ -1,0 +1,11 @@
+https://www.google.com/maps/dir/Seattle,+WA/Stevens+Pass,+Washington+98826/@47.7925401,-122.0400383,10z/
+data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x5490102c93e83355:0x102565466944d59a
+!2m2
+!1d-122.3328481
+!2d47.6061389
+!1m5
+!1m1
+!1s0x549af0c5541e0005:0xc22c0e63a6ffba92
+!2m2
+!1d-121.0859328!2d47.7462223!3e0
+?entry=ttu

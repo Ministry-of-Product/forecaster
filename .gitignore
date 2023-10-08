@@ -1,0 +1,8 @@
+
+.ipynb_checkpoints/
+bin
+lib
+lesson5/.ipynb_checkpoints/
+uwenv
+venv
+venv/pyvenv.cfg
